@@ -1,0 +1,3 @@
+XPlus/ConvertUTF.lo: XPlus/ConvertUTF.c ../include/XPlus/ConvertUTF.h
+
+../include/XPlus/ConvertUTF.h:
