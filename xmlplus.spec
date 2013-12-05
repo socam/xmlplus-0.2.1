@@ -12,7 +12,7 @@ Summary:    xmlplus
 Version:    0.2.1
 Release:    1
 Group:      Applications/Internet
-License:    TBD
+License:    GPLv3
 Source0:    %{name}-%{version}.tar.gz
 Provides:   qtwebkit = 4.9.4
 
